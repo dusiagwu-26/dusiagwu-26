@@ -27,4 +27,4 @@ Seeking entry-level Software Engineering and Application Security opportunities 
 Coming soon — secure software applications, automation tools, and cybersecurity projects.
 
 ## Connect
-- LinkedIn: Add your LinkedIn URL
+- LinkedIn: https://www.linkedin.com/in/denzel-usiagwu/
